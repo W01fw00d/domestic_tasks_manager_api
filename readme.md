@@ -1,18 +1,5 @@
-## W01fw00d Portfolio v0.2
-My portfolio, as a way to introduce myself as a full-stack web developer.
+## Domestic Tasks Manager API v1.0
+A PHP API that feeds data to the Domestic Tasks Manager Ionic App
 
 **Includes:**
-* React
-* Reactstrap (React Bootstrap 4 components)
-
-**To deploy, enter in the project directory and run:**
-
-```
-npm start
-```
-
-Runs the app in the development mode.
-
-Open http://localhost:3000 to view it in the browser.
-
-**This repository is currently being deployed on https://w01fw00d.github.io/w01fw00d_portfolio/**
+* Lumen (Laravel)
